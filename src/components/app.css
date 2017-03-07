@@ -2,3 +2,7 @@
     text-align: center;
     color: #336699;
 }
+li {
+    list-style-type: none;
+    color: steelblue;
+}
